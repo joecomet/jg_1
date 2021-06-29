@@ -8,7 +8,7 @@ int main()
     
     int posX = 300;
     int posY = 300;
-    CircleShape shooter(50.f,4);
+    CircleShape shooter(50.f,3);
     shooter.rotate(45);
     shooter.setPosition(posX,posY);
 
